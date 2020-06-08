@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4qk2HZ7wYyGXgmnRR5U2mMmqGm+Wzl3ruBwsyrjJeHZhHQ15tNOk0U/GEg28CKj3XB6g6pzz/d7Lz+NKgfA2jg==",
+  "success": true,
+  "projectFilePath": "D:\\project\\eShopSolutionNew\\eShopSolution.ViewModels\\eShopSolution.ViewModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SonVH\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.4\\microsoft.aspnetcore.http.features.3.1.4.nupkg.sha512",
+    "C:\\Users\\SonVH\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.4\\microsoft.extensions.primitives.3.1.4.nupkg.sha512",
+    "C:\\Users\\SonVH\\.nuget\\packages\\system.io.pipelines\\4.7.1\\system.io.pipelines.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

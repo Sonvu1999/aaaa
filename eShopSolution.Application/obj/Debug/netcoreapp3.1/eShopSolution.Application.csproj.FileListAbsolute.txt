@@ -1,0 +1,16 @@
+E:\project\eShopSolutionNew\eShopSolution.Application\bin\Debug\netcoreapp3.1\eShopSolution.Application.deps.json
+E:\project\eShopSolutionNew\eShopSolution.Application\bin\Debug\netcoreapp3.1\eShopSolution.Application.dll
+E:\project\eShopSolutionNew\eShopSolution.Application\bin\Debug\netcoreapp3.1\eShopSolution.Application.pdb
+E:\project\eShopSolutionNew\eShopSolution.Application\obj\Debug\netcoreapp3.1\eShopSolution.Application.csprojAssemblyReference.cache
+E:\project\eShopSolutionNew\eShopSolution.Application\obj\Debug\netcoreapp3.1\eShopSolution.Application.csproj.CoreCompileInputs.cache
+E:\project\eShopSolutionNew\eShopSolution.Application\obj\Debug\netcoreapp3.1\eShopSolution.Application.AssemblyInfoInputs.cache
+E:\project\eShopSolutionNew\eShopSolution.Application\obj\Debug\netcoreapp3.1\eShopSolution.Application.AssemblyInfo.cs
+E:\project\eShopSolutionNew\eShopSolution.Application\obj\Debug\netcoreapp3.1\eShopSolution.Application.dll
+E:\project\eShopSolutionNew\eShopSolution.Application\obj\Debug\netcoreapp3.1\eShopSolution.Application.pdb
+E:\project\eShopSolutionNew\eShopSolution.Application\bin\Debug\netcoreapp3.1\eShopSolution.Data.dll
+E:\project\eShopSolutionNew\eShopSolution.Application\bin\Debug\netcoreapp3.1\eShopSolution.Utilities.dll
+E:\project\eShopSolutionNew\eShopSolution.Application\bin\Debug\netcoreapp3.1\eShopSolution.ViewModels.dll
+E:\project\eShopSolutionNew\eShopSolution.Application\bin\Debug\netcoreapp3.1\eShopSolution.Data.pdb
+E:\project\eShopSolutionNew\eShopSolution.Application\bin\Debug\netcoreapp3.1\eShopSolution.Utilities.pdb
+E:\project\eShopSolutionNew\eShopSolution.Application\bin\Debug\netcoreapp3.1\eShopSolution.ViewModels.pdb
+E:\project\eShopSolutionNew\eShopSolution.Application\obj\Debug\netcoreapp3.1\eShopSolution.Application.csproj.CopyComplete
